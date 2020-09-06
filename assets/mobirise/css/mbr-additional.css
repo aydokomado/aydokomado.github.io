@@ -835,6 +835,8 @@ a {
 .cid-s9MOwfXMc7 {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-s9MOwfXMc7 nav.navbar {
   position: fixed;
@@ -900,7 +902,7 @@ a {
 }
 .cid-s9MOwfXMc7 .dropdown-menu,
 .cid-s9MOwfXMc7 .navbar.opened {
-  background: #e6c63b !important;
+  background: #ffffff !important;
 }
 .cid-s9MOwfXMc7 .nav-item:focus,
 .cid-s9MOwfXMc7 .nav-link:focus {
@@ -934,7 +936,8 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(230, 198, 59, 0.5);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
 }
 .cid-s9MOwfXMc7 .navbar.opened {
   transition: all .3s;
@@ -960,7 +963,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-s9MOwfXMc7 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.7rem);
+    max-height: calc(98.5vh - 3rem);
   }
 }
 .cid-s9MOwfXMc7 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1079,7 +1082,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-s9MOwfXMc7 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #e6c63b;
+  background: #ffffff;
 }
 .cid-s9MOwfXMc7 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1877,6 +1880,8 @@ a {
 .cid-s9MOwfXMc7 {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-s9MOwfXMc7 nav.navbar {
   position: fixed;
@@ -1942,7 +1947,7 @@ a {
 }
 .cid-s9MOwfXMc7 .dropdown-menu,
 .cid-s9MOwfXMc7 .navbar.opened {
-  background: #e6c63b !important;
+  background: #ffffff !important;
 }
 .cid-s9MOwfXMc7 .nav-item:focus,
 .cid-s9MOwfXMc7 .nav-link:focus {
@@ -1976,7 +1981,8 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(230, 198, 59, 0.5);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
 }
 .cid-s9MOwfXMc7 .navbar.opened {
   transition: all .3s;
@@ -2002,7 +2008,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-s9MOwfXMc7 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.7rem);
+    max-height: calc(98.5vh - 3rem);
   }
 }
 .cid-s9MOwfXMc7 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2121,7 +2127,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-s9MOwfXMc7 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #e6c63b;
+  background: #ffffff;
 }
 .cid-s9MOwfXMc7 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;

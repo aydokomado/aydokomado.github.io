@@ -41,16 +41,17 @@
     ],
     "favicon": false,
     "imageResize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "siteUrl": "https://dokomado.com",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
     "uniqCompNum": 14,
     "versionPublish": "5.0.29",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n"
   },
   "pages": {
     "index.html": {

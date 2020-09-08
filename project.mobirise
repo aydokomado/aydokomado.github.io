@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dokomado_v 0.9",
-    "currentPage": "index.html",
+    "currentPage": "courses.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -23,10 +23,10 @@
         "display7Size": 1.2,
         "display4Font": "Jost",
         "display4Size": 1.1,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },

@@ -758,21 +758,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-saKZuHie4a {
-  padding-top: 3rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-saKZuHie4a .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-saKZuHie4a .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 70%;
-  }
-}
 .cid-saKYjK6jnX {
   z-index: 1000;
   width: 100%;

@@ -1173,13 +1173,18 @@ a {
   }
 }
 .cid-sbc1zH5rss {
-  padding-top: 6rem;
+  padding-top: 7rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-sbc1zH5rss .top-line {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
+}
+@media (max-width: 767px) {
+  .cid-sbc1zH5rss .top-line {
+    justify-content: center;
+  }
 }
 .cid-sbc1zH5rss .mbr-section-title,
 .cid-sbc1zH5rss .mbr-section-subtitle {
@@ -1190,7 +1195,7 @@ a {
 }
 .cid-sbc1zH5rss .card-wrapper {
   border-radius: 4px;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-sbc1zH5rss .image-wrapper img {
   width: 100%;

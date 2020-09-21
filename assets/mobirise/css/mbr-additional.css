@@ -1127,7 +1127,7 @@ a {
   width: 100%;
 }
 .cid-sbc6Y6z4Zi {
-  padding-top: 6rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
   background-color: #bbbbbb;
 }
@@ -1161,9 +1161,12 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sbc6Y6z4Zi .card-title {
+  text-align: center;
+}
 .cid-sbc6ely1cv {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-sbc6ely1cv .content-wrapper {
@@ -1198,6 +1201,9 @@ a {
 .cid-sbc6ely1cv .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sbc6ely1cv .card-title {
+  text-align: center;
 }
 .cid-sbb0EAw8FF {
   padding-top: 1rem;

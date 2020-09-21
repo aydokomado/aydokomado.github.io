@@ -50,7 +50,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/open-window-icon-25-3-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,

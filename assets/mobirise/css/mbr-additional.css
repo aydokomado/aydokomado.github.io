@@ -2241,25 +2241,36 @@ a {
     padding: 1rem;
   }
 }
-.cid-sbgFL8JhnT {
+.cid-sc3BAiD6un {
   padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #fff0b0;
-}
-.cid-sbgFL8JhnT .mbr-overlay {
+  padding-bottom: 3rem;
   background-color: #ffffff;
-  opacity: 0.4;
 }
-.cid-sbgFL8JhnT form .mbr-section-btn {
+.cid-sc3BAiD6un .mbr-section-title,
+.cid-sc3BAiD6un .mbr-section-subtitle {
   text-align: center;
-  width: 100%;
 }
-.cid-sbgFL8JhnT form .mbr-section-btn .btn {
-  display: inline-flex;
+.cid-sc3BAiD6un .cost {
+  word-break: normal;
 }
-@media (max-width: 991px) {
-  .cid-sbgFL8JhnT form .mbr-section-btn .btn {
-    width: 100%;
+.cid-sc3BAiD6un .card-wrapper {
+  margin-bottom: 2rem;
+  border-radius: 4px;
+  background: #e9e8e7;
+}
+.cid-sc3BAiD6un .card-wrapper .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .cid-sc3BAiD6un .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sc3BAiD6un .card-wrapper {
+    padding: 1rem;
   }
 }
 .cid-sbgD4CMNKT {

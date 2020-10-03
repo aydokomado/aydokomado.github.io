@@ -18,7 +18,7 @@
         "display2Font": "Jost",
         "display2Size": 3,
         "display5Font": "Jost",
-        "display5Size": "2",
+        "display5Size": "1.8",
         "display7Font": "Roboto Mono",
         "display7Size": 1.2,
         "display4Font": "Jost",
@@ -56,7 +56,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/open-window-icon-25-3-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,

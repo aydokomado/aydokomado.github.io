@@ -3102,6 +3102,55 @@ a {
 .cid-sckjYsxpmZ .price-term {
   color: #ff6666;
 }
+.cid-sIeVC7zVos {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background: #fff0b0;
+}
+.cid-sIeVC7zVos .list-group-item {
+  background-color: transparent;
+  padding: .5rem 3.25rem;
+}
+.cid-sIeVC7zVos .plan-body {
+  padding-bottom: 2rem;
+}
+.cid-sIeVC7zVos .plan-header {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-sIeVC7zVos .price {
+  color: #e43f3f;
+}
+.cid-sIeVC7zVos .plan {
+  word-break: break-word;
+  background-color: #ffffff;
+}
+.cid-sIeVC7zVos .plan .list-group-item {
+  position: relative;
+  justify-content: center;
+  border: 0;
+}
+.cid-sIeVC7zVos .plan .list-group-item::after {
+  position: absolute;
+  bottom: 1px;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.cid-sIeVC7zVos .plan .list-group-item:last-child::after {
+  display: none;
+}
+@media (max-width: 991px) {
+  .cid-sIeVC7zVos .plan {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sIeVC7zVos .price-term {
+  color: #ff6666;
+}
 .cid-sckjYppk1s {
   padding-top: 7rem;
   padding-bottom: 4rem;
@@ -3273,6 +3322,9 @@ a {
   .cid-sGP2CnQtcm .card-wrapper {
     padding: 1rem;
   }
+}
+.cid-sGP2CnQtcm .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-sGTdPDfqlM {
   padding-top: 2rem;
